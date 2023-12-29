@@ -1,5 +1,4 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
 import logo from './logo.svg';
 import ConstructionPopup from './components/specific_components/ConstructionPopup';
 import './styles/Home.css';
