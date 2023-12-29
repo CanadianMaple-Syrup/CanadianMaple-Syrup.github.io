@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import React from 'react';
-import '../styles/Popup.css';
-import '../styles/Button.css';
+import '../../styles/Popup.css';
+import '../../styles/Button.css';
 
 function Popup() {
   const [isActive, setIsActive] = useState<Boolean>(true);

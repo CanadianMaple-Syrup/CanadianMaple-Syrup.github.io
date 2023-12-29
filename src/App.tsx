@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import Popup from './components/Popup';
+import Popup from './components/GenericComponents/Popup';
 import './styles/App.css';
 
 function App() {
