@@ -1,0 +1,21 @@
+.background {
+  position: absolute;
+  display: flex;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(10px);
+}
+
+.construction {
+  padding: 0.5rem;
+  color: white;
+  background-color: #121418;
+  border-radius: 0.5rem;
+  border: black 0.2rem solid;
+  width: 30rem;
+  margin: auto;
+  vertical-align: middle;
+  display: flex;
+  flex-direction: column;
+}
